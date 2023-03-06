@@ -4,4 +4,6 @@ env/
 guide_4.ipynb
 build/
 dist/
+<<<<<<< HEAD
 *.egg-info
+
